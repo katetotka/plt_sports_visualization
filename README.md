@@ -8,4 +8,5 @@
 
 ### Number of observations and gender distribution
 The dataset contains 2014 observations. Αs shown in the diagram below, there are 1047 men and 967 women.
-![](project1_images/gender.jpg)
+![](D:/Python/projects/project1_images/gender.jpg)
+
