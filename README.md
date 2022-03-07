@@ -8,5 +8,7 @@
 
 ### Number of observations and gender distribution
 The dataset contains 2014 observations. Αs shown in the diagram below, there are 1047 men and 967 women.
-![plot](./project1_images/gender.jpg)
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/gender.png)
+
+
 
