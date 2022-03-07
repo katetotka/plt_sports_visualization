@@ -18,6 +18,8 @@ The age distribution separately for men and women follows the same pattern.
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/menyears.png)
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/womenyears.png)
 
+### Mean weight for men and women
+The average weight of women is 62 kg, while for most athletes their weight ranges from 55 to 78 kg. On the other hand, the average wight of men is 82 kg and most of them weigh from 67 to 97 kg.
 
 
 
