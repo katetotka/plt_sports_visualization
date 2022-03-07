@@ -11,8 +11,11 @@ The dataset contains 2014 observations. Αs shown in the diagram below, there ar
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/gender.png)
 
 ### Age Distribution
-The majority of the Olympians are 15-28 years old while as expected few are those who are over 42 years old.
+The majority of the Olympians are 15-28 years old while, as expected, few are those who are over 42 years old.
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/totalyears.png)
+
+The age distribution separately for men and women follows the same distribution.
+![](
 
 
 
