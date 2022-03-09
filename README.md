@@ -35,4 +35,4 @@ As can be seen from the relevant diagram, the sports that have the largest avera
 ### Now let's do the same for average height
 In general, the average height is high for almost all the sports except from gymnastics. As it is obvious the athletes of basketball, volleyball, beach volleyball and water polo have the highest height.
 
-![]
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/sportsheight.png)
