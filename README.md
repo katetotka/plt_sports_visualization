@@ -30,4 +30,9 @@ The average height of women is almost 175cm and ranges mostly from 170 to 180cm.
 ### Let's find which is the average weight for each sport
 As can be seen from the relevant diagram, the sports that have the largest average body weight are basketball, weightlifting, handball, water polo, wrestling, rowing, rugby sevens, judo volleyball and beach volleyball. However, it is necessary to mention that for almost all sports there is a large variation in terms of average weight.
 
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/sportsweight.png)
+
+### Now let's do the same for average height
+In general, the average height is high for almost all the sports except from gymnastics. As it is obvious the athletes of basketball, volleyball, beach volleyball and water polo have the highest height.
+
 ![]
