@@ -24,6 +24,10 @@ The average weight of women is 62 kg, while for most athletes their weight range
 
 ### Average height for men and women
 The average height of women is almost 175cm and ranges mostly from 170 to 180cm. Men have an average height of 180cm ranging from 175 to 195cm.
+
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/height.png)
 
+### Let's find which is the average weight for each sport
+As can be seen from the relevant diagram, the sports that have the largest average body weight are basketball, weightlifting, handball, water polo, wrestling, rowing, rugby sevens, judo volleyball and beach volleyball. However, it is necessary to mention that for almost all sports there is a large variation in terms of average weight.
 
+![]
