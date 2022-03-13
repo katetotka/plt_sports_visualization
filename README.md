@@ -49,6 +49,7 @@ The most medals are bronze, with gold medals be slightly higher than silver ones
 
 For both women and men bronze medals are in the first place, although women have the same number of gold and silver medals while men have a slightly higher number of gold than silver ones.
 
-![] ()
+![]("https://github.com/katetotka/plt_sports_visualization/blob/main/medalsw.png")
+![]()
 
 ### 
