@@ -45,6 +45,10 @@ From the diagram below, it seems that there is a positive relationship between w
 ### Which is the number of gold, silver and bronze medals?
 The most medals are bronze, with gold medals be slightly higher than silver ones.
 
-![]
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/medalsg.png)
 
+For both women and men bronze medals are in the first place, although women have the same number of gold and silver medals while men have a slightly higher number of gold than silver ones.
 
+![] ()
+
+### 
