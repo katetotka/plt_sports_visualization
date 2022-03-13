@@ -16,7 +16,7 @@ The majority of the Olympians are 15-28 years old while, as expected, few are th
 
 The age distribution separately for men and women follows the same pattern.
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/menyears_1.png)
-![](https://github.com/katetotka/plt_sports_visualization/blob/main/womenyears.png)
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/womenyears_1.png)
 
 ### Average weight for men and women
 The average weight of women is 62 kg, while for most athletes their weight ranges from 55 to 78 kg. On the other hand, the average weight of men is 82 kg and most of them weigh from 67 to 97 kg.
