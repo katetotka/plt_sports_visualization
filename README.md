@@ -15,7 +15,7 @@ The majority of the Olympians are 15-28 years old while, as expected, few are th
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/totalyears_1.png)
 
 The age distribution separately for men and women follows the same pattern.
-![](https://github.com/katetotka/plt_sports_visualization/blob/main/menyears.png)
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/menyears_1.png)
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/womenyears.png)
 
 ### Average weight for men and women
