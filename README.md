@@ -40,5 +40,11 @@ In general, the average height is high for almost all the sports except from gym
 ### In general, is there a correlation between weight and height in this dataset?
 From the diagram below, it seems that there is a positive relationship between weight and height. As weight increases, the height increases respectively.
 
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/corr.png)
+
+### Which is the number of gold, silver and bronze medals?
+The most medals are bronze, with gold medals be slightly higher than silver ones.
+
+![]
 
 
