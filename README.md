@@ -49,7 +49,10 @@ The most medals are bronze, with gold medals be slightly higher than silver ones
 
 For both women and men bronze medals are in the first place, although women have the same number of gold and silver medals while men have a slightly higher number of gold than silver ones.
 
-![]("https://github.com/katetotka/plt_sports_visualization/blob/main/medalsw.png")
-![]()
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/medalsw.png)
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/medalsm.png)
 
-### 
+### Can we assume that is there a correlation between the number of gold medals gained and the age of the athletes in the dataset?
+In general, it seems that there is no positive or negative relationship between the number of gold medals gained and the athletes' ages in this dataset. We could only say that the athletes between the years of 20-30 won the most gold medals.
+
+![]()
