@@ -20,7 +20,7 @@ The age distribution separately for men and women follows the same pattern.
 
 ### Average weight for men and women
 The average weight of women is 62 kg, while for most athletes their weight ranges from 55 to 78 kg. On the other hand, the average weight of men is 82 kg and most of them weigh from 67 to 97 kg.
-![](https://github.com/katetotka/plt_sports_visualization/blob/main/weight.png)
+![](https://github.com/katetotka/plt_sports_visualization/blob/main/weight_1.png)
 
 ### Average height for men and women
 The average height of women is almost 175cm and ranges mostly from 170 to 180cm. Men have an average height of 180cm ranging from 175 to 195cm.
