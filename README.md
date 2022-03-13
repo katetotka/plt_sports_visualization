@@ -57,7 +57,7 @@ In general, it seems that there is no positive or negative relationship between 
 
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/corr1.png)
 
-### Finally, let's explore the number of gold medals per countrt. Which country had the best performance?
-USA had the best performance among all countries. With 138 gold medals is in the first place! UK, Russia, Germany, China and Brazil had also a high performance!
+### Finally, let's explore the number of gold medals per country. Which country had the best performance?
+USA had the best performance among all countries. With 138 gold medals USA is in the first place! UK, Russia, Germany, China and Brazil had also a high performance!
 
 ![](https://github.com/katetotka/plt_sports_visualization/blob/main/medalscountry.png)
